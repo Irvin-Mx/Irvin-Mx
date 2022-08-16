@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **Kids Zone**
 
-- 🌱 I’m currently learning **three.js,hidroponic systems,agriculture**
+- 🌱 I’m currently learning **three.js**
 
 - 👯 I’m looking to collaborate on **solving real life problems**
 
-- 🤝 I’m looking for help with **hidroponic systems**
+- 🤝 I’m looking for help with **Drones Level:0**
 
 - 💬 Ask me about **web development,automation,mechatronics, 3d printing**
 
