@@ -2,20 +2,20 @@
 
 [![MasterHead](https://wallpaperaccess.com/full/831754.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Irvin Martinez</h1>
-<h3 align="center">A passionate fullstack developer from México</h3>
+<h3 align="center">A Fullstack Web Developer/h3>
 <img align="right" alt="Coding" width="400" src="https://c4.wallpaperflare.com/wallpaper/823/919/718/rick-and-morty-rick-sanchez-dont-panic-the-hitchhikers-guide-to-the-galaxy-morty-smith-cartoon-wallpaper-preview.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irvin-mx&label=Profile%20views&color=0e75b6&style=flat" alt="irvin-mx" /> </p>
 
-- 🔭 I’m currently working on **Kids Zone**
+- 🔭 I’m currently working on a **E-Comerce web site**
 
-- 🌱 I’m currently learning **three.js**
+- 🌱 I’m currently learning **Typescript**
 
 - 👯 I’m looking to collaborate on **solving real life problems**
 
-- 🤝 I’m looking for help with **Drones Level:0**
+- 🤝 I’m looking for help with **Typescript**
 
-- 💬 Ask me about **web development,automation,mechatronics, 3d printing**
+- 💬 Ask me about **web development*
 
 - 📫 How to reach me **irvin0329@outlook.com**
 
