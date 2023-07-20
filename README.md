@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irvin-mx&label=Profile%20views&color=0e75b6&style=flat" alt="irvin-mx" /> </p>
 
-- 🔭 I’m currently working on a **E-Comerce web site**
+- 🔭 I’m currently working on a **personal web site**
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Advanced Javascript**
 
 - 👯 I’m looking to collaborate on **solving real life problems**
 
