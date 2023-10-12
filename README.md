@@ -7,15 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irvin-mx&label=Profile%20views&color=0e75b6&style=flat" alt="irvin-mx" /> </p>
 
-- 🔭 I’m currently working on a **personal web site**
+- 🔭 I’m currently working on my **Integrated project** for Henry.
 
-- 🌱 I’m currently learning **Advanced Javascript**
+- 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **solving real life problems**
+- 👯 I’m looking to collaborate on **open source projects**
 
 - 🤝 I’m looking for help with **Typescript**
 
-- 💬 Ask me about **web development*
+- 💬 Ask me about **Front-end Web Development*
 
 - 📫 How to reach me **irvin0329@outlook.com**
 
