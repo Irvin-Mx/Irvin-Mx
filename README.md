@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on my **Integrated project** for Henry.
 
-- 🌱 I’m currently learning **Node**
+- 🌱 I’m currently learning **SQL**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 🤝 I’m looking for help with **Typescript**
+- 🤝 I’m looking for help with **PostgreSQL**
 
 - 💬 Ask me about **Front-end Web Development*
 
