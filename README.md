@@ -3,17 +3,17 @@
 [![MasterHead](https://wallpaperaccess.com/full/831754.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Irvin Martinez</h1>
 <h3 align="center">A Fullstack Web Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://c4.wallpaperflare.com/wallpaper/823/919/718/rick-and-morty-rick-sanchez-dont-panic-the-hitchhikers-guide-to-the-galaxy-morty-smith-cartoon-wallpaper-preview.jpg">
+<img align="right" alt="Coding" width="400" src="[https://c4.wallpaperflare.com/wallpaper/823/919/718/rick-and-morty-rick-sanchez-dont-panic-the-hitchhikers-guide-to-the-galaxy-morty-smith-cartoon-wallpaper-preview.jpg](https://images.unsplash.com/photo-1536104968055-4d61aa56f46a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGRldmVsb3BlcnxlbnwwfHwwfHx8MA%3D%3D)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irvin-mx&label=Profile%20views&color=0e75b6&style=flat" alt="irvin-mx" /> </p>
 
 - 🔭 I’m currently working on my **Integrated project** for Henry.
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **React Testing Library**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 🤝 I’m looking for help with **PostgreSQL**
+- 🤝 I’m looking for help with **AWS AuroraMySQL**
 
 - 💬 Ask me about **Front-end Web Development*
 
