@@ -1,5 +1,5 @@
 # Hello ! I am Irvin :)
-🌍  I live in Mexico<br>🖥️  See my portfolio at https://comingSoon.com/<br>✉️  You can contact me at irvin0329@outlook.com<br>🚀  I'm currently sharpening my full stack web development skills with the help of the 4Geeks.com amazing team<br>🧠  I'm learning about Python with flask<br>⚡  I am a spidey fan 🕸️
+🌍  I live in Mexico<br>🖥️  See my portfolio at https://comingSoon.com/<br>✉️  You can contact me at irvin0329@outlook.com<br>🚀  I'm currently sharpening my full stack web development skills with the help of the 4Geeks.com amazing team<br>🧠  I'm learning about sqlalchemy<br>⚡  I am a spidey fan 🕸️
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/irvin-martinez-im) 
