@@ -1,4 +1,4 @@
-# Hello ! I am Irvin :)
+# Hello ! I am Irvin :) A passionate fullstack software developer
 🌍  I live in Mexico<br>🖥️  See my portfolio at https://comingSoon.com/<br>✉️  You can contact me at irvin0329@outlook.com<br>🚀  I'm currently sharpening my full stack web development skills with the help of the 4Geeks.com amazing team<br>🧠  I'm learning about sqlalchemy<br>⚡  I am a spidey fan 🕸️
 
 ## 🌐 Socials:
